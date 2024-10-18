@@ -1,4 +1,3 @@
-# TheMissingSeries Organization page
-[Assets](https://github.com/TheMissingSeries/Assets)
-
-[Terminal](https://themissingseries.github.io/Terminal/)
+# Creative Venture
+## TheMissing
+[Assets](https://github.com/TheCreativeVentureSeries/TheMissing_Assets)
